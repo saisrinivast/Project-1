@@ -1,0 +1,186 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: 'Times New Roman', Times, serif;
+}
+body{
+  background-color:whitesmoke;
+}
+.navbar{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+  padding: 20px;
+}
+.settings{
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+}
+.time h2{
+  width: 10px;
+  height: 10px;
+}
+.network img{
+  width: 30px;
+}
+.wifi img{
+  width: 30px;
+}
+.battery img{
+  width: 30px;
+}
+.navbar2{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+  padding: 10px;
+}
+.s2{
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  padding-right: 20px;
+}
+.alarm img{
+  width: 40%;
+}
+.live h4{
+  margin-top: 10px;
+}
+.navbar3{
+  display: flex;
+  justify-content: space-between;
+  font-weight: bolder;
+  margin-top: 10px;
+  padding: 10px;
+  background-color:aliceblue;
+}
+.bitcoin{
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+}
+.bit{
+  margin-top: 10px;
+}
+.bit-img img{
+  width: 50%;
+}
+.cricket{
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+}
+.ipl{
+  margin-top: 10px;
+}
+.ipl-img img{
+  width: 50%;
+}
+.ethereum{
+  display: flex;
+  justify-content: space-between;
+}
+.ethe{
+  margin-top: 10px;
+}
+.ethe-img img{
+  width: 50%;
+}
+.men-wc{
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+}
+.wc{
+  margin-top: 10px;
+}
+.wc-img img{
+  width: 50%;
+}
+.champions{
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+}
+.champ{
+  margin-top: 10px;
+}
+.champ-img img{
+  width: 50%;
+}
+.navbar5{
+  display: flex;
+  justify-content: space-between;
+  margin: 30px;
+  background-color: aliceblue;
+  font-weight: bolder;
+}
+.b1{
+  display: flex;
+  justify-content: space-between;
+}
+.bb1{
+  background-color: blue;
+  color: white;
+  width: 100px;
+  height: 30px;
+}
+.bb2{
+  background-color: green;
+  color: white;
+  width: 100px;
+  height: 30px;
+}
+.m1-img img{
+  width: 50%;
+}
+.navbar6{
+  display: flex;
+  justify-content: space-between;
+  margin: 30px;
+  background-color: aliceblue;
+  font-weight: bolder;
+}
+.navbar7{
+  display: flex;
+  justify-content: space-between;
+  margin: 30px;
+  background-color: aliceblue;
+  font-weight: bolder;
+}
+.navbar8{
+  display: flex;
+  justify-content: space-between;
+  margin: 20px;
+  gap: 100px;
+  padding-left: 100px;
+}
+.home img{
+  width: 25%;
+}
+.port img{
+  width: 25%;
+}
+.wallet img{
+  width: 25%;
+}
+.profile img{
+  width: 25%;
+}
+.slides{
+  display: flex;
+  gap: 60px;
+  margin-top: 20px;
+}
+.irctc img{
+  width: 400px;
+}
+.stock img{
+  width: 400px;
+}
+.reliance img{
+  width: 400px;
+}
